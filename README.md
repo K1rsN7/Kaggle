@@ -1,11 +1,11 @@
 # Kaggle en
 
-This repository contains the codes that has been written for Kaggle competitions
+This repository contains notebooks with my solution of competitions on Kaggle.
 
-Kaggle Profile : https://www.kaggle.com/k1rsn7
+Kaggle on Profile : https://www.kaggle.com/k1rsn7
 
 # Kaggle ru
 
-Этот репозиторий содержит коды, написанные для соревнований Kaggle.
+Данный репозиторий содержит тетрадки с моим решением соревнований на Kaggle.
 
-Профиль Kaggle: https://www.kaggle.com/k1rsn7
+Профиль на Kaggle: https://www.kaggle.com/k1rsn7
